@@ -5,3 +5,8 @@ https://github.com/LibreTranslate/Locomotive
 https://github.com/mehr32/English-to-Farsi-translation-database
 # Use:
 https://github.com/LibreTranslate/Locomotive#evaluate
+
+# Friends who helped us along the way:
+https://github.com/hirad1986
+
+https://github.com/metantesan
